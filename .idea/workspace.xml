@@ -10,6 +10,7 @@
     <file path="/Gemfile" changelist="8181554f-a4b1-4e13-b779-5bbe045d4ec4" time="1371300692811" ignored="false" />
     <file path="/Ruby Console" changelist="8181554f-a4b1-4e13-b779-5bbe045d4ec4" time="1371306664548" ignored="false" />
     <file path="/database.yml" changelist="8181554f-a4b1-4e13-b779-5bbe045d4ec4" time="1371304696195" ignored="false" />
+    <file path="/README.md" changelist="8181554f-a4b1-4e13-b779-5bbe045d4ec4" time="1371307849588" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +39,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="console.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="console.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.13/lib/rails/commands/console.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="225" selection-end="225" vertical-scroll-proportion="0.7157895">
+            <state line="16" column="26" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="41" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,6 +96,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -550,7 +561,14 @@
     </entry>
     <entry file="file://C:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.13/lib/rails/commands/console.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="225" selection-end="225" vertical-scroll-proportion="0.7157895">
+        <state line="16" column="26" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="41" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
